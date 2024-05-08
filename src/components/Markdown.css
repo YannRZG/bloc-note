@@ -1,0 +1,62 @@
+.markdown-sider {
+    background-color: #001529;
+    color: #fff;
+
+  }
+  
+  .markdown-logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 6px;
+  }
+  
+  .markdown-layout {
+    padding: 24px;
+  }
+  
+  .markdown-textarea {
+    margin-bottom: 16px;
+  }
+  
+  .delete-button {
+    color: #f5222d;
+    
+    
+
+    
+  }
+  
+  .save-button {
+    margin-top: 16px;
+  }
+
+.markdown-container {
+  padding: 3em;
+  min-height: 40vh;
+  
+}
+
+.new-note-button {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+}
+
+.file-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.file-name {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.content {
+  display: flex;
+  justify-content: start;
+  min-height: 60vh;
+  padding: 3em;
+}
